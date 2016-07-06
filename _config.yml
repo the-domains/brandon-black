@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2526555
+  lightness: 0.4097274
+  brandStrength: 0.3103455
+  rhythmicContrast: 0.7469668
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.5075575
+name: Brandon Black
